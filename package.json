@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/moonpeter/JS-selfstudy.git",
   "author": "moonpeter <moonpeter@kakao.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
