@@ -1,0 +1,8 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/moonpeter/JS-selfstudy.git",
+  "author": "moonpeter <moonpeter@kakao.com>",
+  "license": "MIT"
+}
